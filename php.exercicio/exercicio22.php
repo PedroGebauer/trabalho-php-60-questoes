@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: aplica o acréscimo de 2% multiplicando o saldo por 1.02.
 
 echo "Digite o saldo atual: ";

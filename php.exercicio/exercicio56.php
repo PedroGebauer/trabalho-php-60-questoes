@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa match() para obter o consumo (Km/l) conforme o tipo do veículo e divide a distância pelo
 // consumo para estimar o total de litros necessários para o trajeto.
 

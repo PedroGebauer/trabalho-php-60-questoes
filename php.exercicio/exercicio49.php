@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: coloca os três números em um array e usa sort()/rsort() para reordená-los de forma crescente e decrescente.
 
 echo "Digite o primeiro número: ";

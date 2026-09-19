@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: lê a quantidade de habitantes e usa um laço for para ler a idade de cada um, acumulando a
 // soma das idades, que é então dividida pela quantidade de habitantes para obter a média.
 

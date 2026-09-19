@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: armazena os cinco números lidos em um array e usa max() e min() para obter o maior e o menor valor.
 
 echo "Digite o 1º número: ";

@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: lê dois inteiros, soma-os e divide por 2 para obter a média aritmética simples.
 
 echo "Digite o primeiro número inteiro: ";

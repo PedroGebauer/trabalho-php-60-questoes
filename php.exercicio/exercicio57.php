@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: valida o mês (1-12) e, com base nele, define o número máximo de dias válidos, tratando
 // fevereiro de forma especial ao verificar se o ano é bissexto (divisível por 4, exceto séculos não
 // divisíveis por 400), permitindo 29 dias nesse caso.

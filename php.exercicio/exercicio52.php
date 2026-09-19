@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: divide o valor em reais pela cotação do dólar para obter o valor equivalente em dólares.
 
 echo "Digite o valor em Reais (BRL): ";

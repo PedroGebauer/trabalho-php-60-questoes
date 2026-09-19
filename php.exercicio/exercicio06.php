@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: multiplica os dois valores fixos usando o operador aritmético * e exibe o resultado.
 
 $a = 28;

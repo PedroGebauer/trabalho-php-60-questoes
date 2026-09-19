@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa switch para comparar a sigla do estado com RJ, SP e MG e classificar a naturalidade da pessoa.
 
 echo "Digite a sigla do estado (ex: RJ, SP, MG): ";

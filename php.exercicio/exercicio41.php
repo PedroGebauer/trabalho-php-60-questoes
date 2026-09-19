@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: soma as deduções (previdência + despesas médicas + R$1.080,00 por dependente), obtém a base
 // de cálculo, aplica a alíquota da faixa correspondente com a parcela a deduzir, e compara o imposto devido
 // com o imposto retido na fonte para determinar se há valor a pagar ou a restituir.

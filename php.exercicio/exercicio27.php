@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa o operador relacional > para comparar o número lido com zero.
 
 echo "Digite um número inteiro: ";

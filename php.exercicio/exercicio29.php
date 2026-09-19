@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa if/else para decidir entre calcular o inverso (positivo) ou o valor absoluto (não positivo).
 
 echo "Digite um número real: ";

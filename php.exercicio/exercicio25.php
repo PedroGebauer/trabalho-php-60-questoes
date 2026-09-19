@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: aplica a fórmula de conversão de Fahrenheit para Celsius sobre o valor lido.
 
 echo "Digite a temperatura em Fahrenheit: ";

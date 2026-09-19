@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa substr() para extrair 2 caracteres de cada vez da string (dia, mês e ano).
 
 echo "Digite a data no formato ddmmaa: ";

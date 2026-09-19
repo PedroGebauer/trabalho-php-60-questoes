@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: extrai dia, mês e ano com substr() e concatena novamente na ordem mm-dd-aa.
 
 echo "Digite a data no formato ddmmaa: ";

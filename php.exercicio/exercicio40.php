@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa match() para definir o valor da diária conforme o tipo de apartamento, calcula o subtotal
 // (diárias + consumo), a taxa de serviço de 10% sobre o subtotal e soma tudo para obter o total geral.
 

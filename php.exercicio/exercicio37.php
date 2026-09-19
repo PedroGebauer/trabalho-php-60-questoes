@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: calcula a média das três notas e usa if/elseif/else para classificar o conceito conforme a tabela.
 
 echo "Digite a primeira nota: ";

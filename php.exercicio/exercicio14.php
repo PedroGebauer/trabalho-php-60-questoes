@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: lê o nome e as duas notas (AV1 e AV2), soma as notas e divide por 2 para obter a média final.
 
 echo "Digite o nome do aluno: ";

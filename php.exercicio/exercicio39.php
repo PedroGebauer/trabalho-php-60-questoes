@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: identifica a faixa salarial com if/elseif/else, aplica o percentual de reajuste correspondente
 // e soma o reajuste ao salário atual para obter o novo salário.
 

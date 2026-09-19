@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: lê três strings do teclado (nome, endereço e telefone) e imprime cada uma em sua própria linha.
 
 echo "Digite o nome: ";

@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa min() e max() para determinar o menor e o maior valor e exibi-los nas duas ordens pedidas.
 
 echo "Digite o primeiro número real: ";

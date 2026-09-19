@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: diferente do exercício 33 (que usa max()), aqui a comparação é feita manualmente com
 // uma estrutura if/elseif/else, tratando explicitamente os casos de A maior, B maior e empate.
 

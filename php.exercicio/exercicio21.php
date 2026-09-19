@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: multiplica cada número pelo seu peso, soma os produtos e divide pela soma dos pesos (1+2+3+4=10).
 
 echo "Digite o 1º número: ";

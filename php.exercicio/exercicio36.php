@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: calcula o total pelo consumo (preço * quantidade) e usa max() para garantir a taxa mínima de R$ 11,20.
 
 echo "Digite o código do consumidor: ";

@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: aplica diretamente a fórmula da área do triângulo com os valores lidos.
 
 echo "Digite a base do triângulo: ";

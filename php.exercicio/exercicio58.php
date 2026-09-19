@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa in_array() para verificar se o caractere lido pertence ao conjunto de vogais maiúsculas
 // ou minúsculas; caso não pertença a nenhum dos dois, é classificado como consoante.
 

@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa intdiv() por 100 para isolar o algarismo da centena e depois verifica se ele é par ou ímpar com %.
 
 echo "Digite um número de 3 algarismos (100 a 999): ";

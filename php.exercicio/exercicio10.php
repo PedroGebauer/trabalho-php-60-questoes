@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: lê dois inteiros do teclado, soma-os com o operador + e exibe o resultado precedido de "Soma: ".
 
 echo "Digite o primeiro número inteiro: ";

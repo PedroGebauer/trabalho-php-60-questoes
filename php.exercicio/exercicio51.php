@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: soma as três notas e subtrai a menor delas (obtida com min()), somando apenas as duas maiores,
 // e depois divide o resultado por 2 para obter a média.
 

@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa if/else para escolher a fórmula correta de peso ideal de acordo com o sexo informado.
 
 echo "Digite a altura (m): ";

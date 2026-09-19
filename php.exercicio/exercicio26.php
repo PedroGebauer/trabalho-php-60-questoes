@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa uma variável auxiliar para armazenar temporariamente o valor de A durante a troca.
 
 echo "Digite o valor de A: ";

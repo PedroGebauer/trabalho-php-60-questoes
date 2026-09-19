@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa uma estrutura if/elseif/else para classificar o número em três possíveis categorias.
 
 echo "Digite um número real: ";

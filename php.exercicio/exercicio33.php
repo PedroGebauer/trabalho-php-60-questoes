@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa a função max() para comparar os dois valores lidos e retornar o maior.
 
 echo "Digite o primeiro número real: ";

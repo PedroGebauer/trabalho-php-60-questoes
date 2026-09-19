@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa o operador lógico && (E) para verificar se o resto da divisão por 3 e por 7 são ambos zero.
 
 echo "Digite um número inteiro: ";

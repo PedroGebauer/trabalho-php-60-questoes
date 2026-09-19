@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: lê nome e sobrenome separadamente e concatena na ordem invertida "sobrenome, nome".
 
 echo "Digite o nome: ";

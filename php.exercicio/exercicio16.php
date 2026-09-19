@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa uma estrutura condicional if/else para verificar o sinal do número antes de calcular o dobro.
 
 echo "Digite um número inteiro: ";

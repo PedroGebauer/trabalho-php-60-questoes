@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: calcula o IMC com a fórmula peso / altura² e classifica com if/elseif/else conforme a tabela.
 
 echo "Digite o peso (kg): ";

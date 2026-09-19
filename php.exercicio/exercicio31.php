@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: verifica se o resto da divisão do número por 2 é zero (par) ou diferente de zero (ímpar).
 
 echo "Digite um número inteiro: ";

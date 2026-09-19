@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa intdiv() para obter o quociente inteiro e o operador % para obter o resto da divisão.
 
 echo "Digite o dividendo: ";

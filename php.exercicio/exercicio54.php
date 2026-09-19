@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa switch para associar cada número de 1 a 7 ao nome do dia da semana correspondente.
 
 echo "Digite um número de 1 a 7: ";

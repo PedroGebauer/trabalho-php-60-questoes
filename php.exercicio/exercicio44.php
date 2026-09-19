@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa o operador lógico && para validar o intervalo do ano de nascimento antes de calcular a idade.
 
 echo "Digite o ano de nascimento: ";

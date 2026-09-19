@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: calcula a idade a partir do ano de nascimento e do ano atual, e usa if/elseif/else para
 // enquadrar o nadador na categoria correspondente conforme a tabela de faixas etárias.
 

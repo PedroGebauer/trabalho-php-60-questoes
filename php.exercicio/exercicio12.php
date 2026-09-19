@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: lê um número real com (float) e divide por 3 para obter a terça parte.
 
 echo "Digite um número real: ";

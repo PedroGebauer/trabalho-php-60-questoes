@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa switch para associar cada número de 1 a 12 ao nome do mês correspondente.
 
 echo "Digite um número de 1 a 12: ";

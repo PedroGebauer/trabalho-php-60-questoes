@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: lê dois inteiros e exibe o resultado da multiplicação entre eles.
 
 echo "Digite o primeiro número inteiro: ";

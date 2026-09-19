@@ -1,5 +1,4 @@
 <?php
-
 // Explicação: usa uma estrutura switch para selecionar a operação aritmética de acordo com o operador digitado,
 // tratando também o caso de divisão por zero e de operador inválido.
 
