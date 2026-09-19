@@ -1,18 +1,4 @@
 <?php
-/******************************************************************************
-Curso: Engenharia de Software
-Disciplina: Linguagem e Técnicas de Programação
-Professor: José Carlos Domingues Flores
-Turma: [PREENCHER TURMA]
-Componentes:
- [RA] - [Nome completo 1]
- [RA] - [Nome completo 2]
- [RA] - [Nome completo 3]
- [RA] - [Nome completo 4]
- [RA] - [Nome completo 5]
-Data: [PREENCHER DATA DE ENTREGA]
-Descritivo: Escreva um programa para calcular a conta final de um hóspede de um hotel. Devem ser lidos: nome, tipo do apartamento (A, B, C ou D), quantidade de diárias e valor do consumo interno do hóspede. Calcule valor total das diárias, subtotal, taxa de serviço (10%) e total geral.
-*******************************************************************************/
 
 // Explicação: usa match() para definir o valor da diária conforme o tipo de apartamento, calcula o subtotal
 // (diárias + consumo), a taxa de serviço de 10% sobre o subtotal e soma tudo para obter o total geral.

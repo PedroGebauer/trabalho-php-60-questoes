@@ -1,18 +1,4 @@
 <?php
-/******************************************************************************
-Curso: Engenharia de Software
-Disciplina: Linguagem e Técnicas de Programação
-Professor: José Carlos Domingues Flores
-Turma: [PREENCHER TURMA]
-Componentes:
- [RA] - [Nome completo 1]
- [RA] - [Nome completo 2]
- [RA] - [Nome completo 3]
- [RA] - [Nome completo 4]
- [RA] - [Nome completo 5]
-Data: [PREENCHER DATA DE ENTREGA]
-Descritivo: Escreva um programa que leia um número inteiro entre 1 e 12 e exiba o nome do mês correspondente por extenso.
-*******************************************************************************/
 
 // Explicação: usa switch para associar cada número de 1 a 12 ao nome do mês correspondente.
 

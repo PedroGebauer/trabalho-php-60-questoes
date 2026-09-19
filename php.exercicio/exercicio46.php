@@ -1,18 +1,4 @@
 <?php
-/******************************************************************************
-Curso: Engenharia de Software
-Disciplina: Linguagem e Técnicas de Programação
-Professor: José Carlos Domingues Flores
-Turma: [PREENCHER TURMA]
-Componentes:
- [RA] - [Nome completo 1]
- [RA] - [Nome completo 2]
- [RA] - [Nome completo 3]
- [RA] - [Nome completo 4]
- [RA] - [Nome completo 5]
-Data: [PREENCHER DATA DE ENTREGA]
-Descritivo: Escreva um programa que leia a sigla do estado onde uma pessoa nasceu e informe se ela é carioca, paulista, mineira ou de outro estado (outros).
-*******************************************************************************/
 
 // Explicação: usa switch para comparar a sigla do estado com RJ, SP e MG e classificar a naturalidade da pessoa.
 

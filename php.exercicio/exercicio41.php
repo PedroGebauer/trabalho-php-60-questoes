@@ -1,18 +1,4 @@
 <?php
-/******************************************************************************
-Curso: Engenharia de Software
-Disciplina: Linguagem e Técnicas de Programação
-Professor: José Carlos Domingues Flores
-Turma: [PREENCHER TURMA]
-Componentes:
- [RA] - [Nome completo 1]
- [RA] - [Nome completo 2]
- [RA] - [Nome completo 3]
- [RA] - [Nome completo 4]
- [RA] - [Nome completo 5]
-Data: [PREENCHER DATA DE ENTREGA]
-Descritivo: Escreva um programa para calcular o imposto de renda anual de um contribuinte, lendo CPF, Nome, Rendimento Anual, Imposto Retido na Fonte, Contribuição Previdenciária, Despesas Médicas e Número de Dependentes, aplicando as deduções e a tabela de alíquotas, informando se há imposto a pagar ou a restituir.
-*******************************************************************************/
 
 // Explicação: soma as deduções (previdência + despesas médicas + R$1.080,00 por dependente), obtém a base
 // de cálculo, aplica a alíquota da faixa correspondente com a parcela a deduzir, e compara o imposto devido

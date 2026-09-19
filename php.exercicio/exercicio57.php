@@ -1,18 +1,4 @@
 <?php
-/******************************************************************************
-Curso: Engenharia de Software
-Disciplina: Linguagem e Técnicas de Programação
-Professor: José Carlos Domingues Flores
-Turma: [PREENCHER TURMA]
-Componentes:
- [RA] - [Nome completo 1]
- [RA] - [Nome completo 2]
- [RA] - [Nome completo 3]
- [RA] - [Nome completo 4]
- [RA] - [Nome completo 5]
-Data: [PREENCHER DATA DE ENTREGA]
-Descritivo: Escreva um programa que leia separadamente o dia, o mês e o ano de uma data e informe se ela é uma data válida ou não. Considere a ocorrência de anos bissextos.
-*******************************************************************************/
 
 // Explicação: valida o mês (1-12) e, com base nele, define o número máximo de dias válidos, tratando
 // fevereiro de forma especial ao verificar se o ano é bissexto (divisível por 4, exceto séculos não
